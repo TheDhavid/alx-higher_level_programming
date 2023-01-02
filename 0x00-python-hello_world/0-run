@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 a = "b" $PYFILE
+python3 a = "b" -c $PYFILE
