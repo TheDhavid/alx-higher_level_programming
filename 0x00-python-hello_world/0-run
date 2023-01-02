@@ -1,2 +1,2 @@
-#!/usr/bin
-python3 print("hey, david") $PYFILE
+#!/bin/bash
+python3 a = "b" $PYFILE
